@@ -1,5 +1,5 @@
 <p align="center">
-<img src="images/Coffee.svg" width=200 height=300>
+<img src="images/Coffee.gif" width=300 height=300>
 </p>
 
 # Coffee Chat
