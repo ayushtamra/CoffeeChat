@@ -1,70 +1,111 @@
-# Getting Started with Create React App
+<span style="display:block;text:align:center">
+  <a href="https://shields.io/github/languages/top/Ismaestro/markdown-template.svg?style-for-the-badge">
+    <img src="https://img.shields.io/github/languages/top/Ismaestro/markdown-template.svg?style=for-the-badge" alt="language-used"/>
+  </a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  <a href="https://github.com/Ismaestro/markdown-template/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/Ismaestro/markdown-template.svg?style=for-the-badge">
+  </a>
 
-## Available Scripts
+  <a href="https://github.com/Ismaestro/markdown-template/network/members">
+    <img src="https://img.shields.io/github/forks/Ismaestro/markdown-template.svg?style=for-the-badge">
+  </a>
 
-In the project directory, you can run:
+  <a href="https://github.com/Ismaestro/markdown-template/stargazers">
+    <img src="https://img.shields.io/github/stars/Ismaestro/markdown-template.svg?style=for-the-badge">
+  </a>
 
-### `yarn start`
+  <a href="https://github.com/Ismaestro/markdown-template/issues">
+    <img src="https://img.shields.io/github/issues/Ismaestro/markdown-template.svg?style=for-the-badge">
+  </a>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  <a href="https://github.com/Ismaestro/markdown-template/blob/master/LICENSE.md">
+    <img src="https://img.shields.io/github/license/Ismaestro/markdown-template.svg?style=for-the-badge">
+  </a>
+</span>
+<br>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<p align="center">
+  <a href="https://example.com/">
+    <img src="https://via.placeholder.com/72" alt="Logo" width=72 height=72>
+  </a>
 
-### `yarn test`
+  <h3 align="center">Logo</h3>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  <p align="center">
+    Short description
+    <br>
+    <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
+    ·
+    <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a>
+  </p>
+</p>
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Table of contents
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- [Table of contents](#table-of-contents)
+- [Quick start](#quick-start)
+- [Status](#status)
+- [What's included](#whats-included)
+- [Bugs and feature requests](#bugs-and-feature-requests)
+- [Contributing](#contributing)
+- [Creators](#creators)
+- [Thanks](#thanks)
+- [Copyright and license](#copyright-and-license)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
+## Quick start
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Some text
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Instruction 1
+- Instruction 2
+- Instruction 3
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Status
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Here goes all the budgets
 
-## Learn More
+## What's included
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Some text
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```text
+folder1/
+└── folder2/
+    ├── folder3/
+    │   ├── file1
+    │   └── file2
+    └── folder4/
+        ├── file3
+        └── file4
+```
 
-### Code Splitting
+## Bugs and feature requests
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Have a bug or a feature request? Please first read the [issue guidelines](https://reponame/blob/master/CONTRIBUTING.md) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://reponame/issues/new).
 
-### Analyzing the Bundle Size
+## Contributing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Please read through our [contributing guidelines](https://reponame/blob/master/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
 
-### Making a Progressive Web App
+Moreover, all HTML and CSS should conform to the [Code Guide](https://github.com/mdo/code-guide), maintained by [Main author](https://github.com/usernamemainauthor).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Editor preferences are available in the [editor config](https://reponame/blob/master/.editorconfig) for easy use in common text editors. Read more and download plugins at <https://editorconfig.org/>.
 
-### Advanced Configuration
+## Creators
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+**Creator 1**
 
-### Deployment
+- <https://github.com/usernamecreator1>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## Thanks
 
-### `yarn build` fails to minify
+Some Text
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Copyright and license
+
+Code and documentation copyright 2011-2018 the authors. Code released under the [MIT License](https://reponame/blob/master/LICENSE).
+
+Enjoy :metal:
