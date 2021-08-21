@@ -1,111 +1,97 @@
-<span style="display:block;text:align:center">
-  <a href="https://shields.io/github/languages/top/Ismaestro/markdown-template.svg?style-for-the-badge">
-    <img src="https://img.shields.io/github/languages/top/Ismaestro/markdown-template.svg?style=for-the-badge" alt="language-used"/>
-  </a>
 
-  <a href="https://github.com/Ismaestro/markdown-template/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/Ismaestro/markdown-template.svg?style=for-the-badge">
-  </a>
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
-  <a href="https://github.com/Ismaestro/markdown-template/network/members">
-    <img src="https://img.shields.io/github/forks/Ismaestro/markdown-template.svg?style=for-the-badge">
-  </a>
+    
+# Coffee Chat
 
-  <a href="https://github.com/Ismaestro/markdown-template/stargazers">
-    <img src="https://img.shields.io/github/stars/Ismaestro/markdown-template.svg?style=for-the-badge">
-  </a>
-
-  <a href="https://github.com/Ismaestro/markdown-template/issues">
-    <img src="https://img.shields.io/github/issues/Ismaestro/markdown-template.svg?style=for-the-badge">
-  </a>
-
-  <a href="https://github.com/Ismaestro/markdown-template/blob/master/LICENSE.md">
-    <img src="https://img.shields.io/github/license/Ismaestro/markdown-template.svg?style=for-the-badge">
-  </a>
-</span>
-<br>
-
-<p align="center">
-  <a href="https://example.com/">
-    <img src="https://via.placeholder.com/72" alt="Logo" width=72 height=72>
-  </a>
-
-  <h3 align="center">Logo</h3>
-
-  <p align="center">
-    Short description
-    <br>
-    <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
-    ·
-    <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a>
-  </p>
-</p>
+A brief description of what this project does and who it's for
 
 
-## Table of contents
+## Features
 
-- [Table of contents](#table-of-contents)
-- [Quick start](#quick-start)
-- [Status](#status)
-- [What's included](#whats-included)
-- [Bugs and feature requests](#bugs-and-feature-requests)
-- [Contributing](#contributing)
-- [Creators](#creators)
-- [Thanks](#thanks)
-- [Copyright and license](#copyright-and-license)
+- Light/dark mode toggle
+- Live previews
+- Fullscreen mode
+- Cross platform
 
+  
+## Tech Stack
 
-## Quick start
+**Client:** React
 
-Some text
+**Server:** Node, Express
 
-- Instruction 1
-- Instruction 2
-- Instruction 3
+  
+## Installation
 
-## Status
+Install my-project with npm
 
-Here goes all the budgets
+```bash
+  npm install my-project
+  cd my-project
+```
+    
+## Run Locally
 
-## What's included
+Clone the project
 
-Some text
-
-```text
-folder1/
-└── folder2/
-    ├── folder3/
-    │   ├── file1
-    │   └── file2
-    └── folder4/
-        ├── file3
-        └── file4
+```bash
+  git clone https://link-to-project
 ```
 
-## Bugs and feature requests
+Go to the project directory
 
-Have a bug or a feature request? Please first read the [issue guidelines](https://reponame/blob/master/CONTRIBUTING.md) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://reponame/issues/new).
+```bash
+  cd my-project
+```
 
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+
+  
+## Deployment
+
+To deploy this project run
+
+```bash
+  npm run deploy
+```
+
+  
+## Demo
+
+Insert gif or link to demo
+
+  
 ## Contributing
 
-Please read through our [contributing guidelines](https://reponame/blob/master/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
+Contributions are always welcome!
 
-Moreover, all HTML and CSS should conform to the [Code Guide](https://github.com/mdo/code-guide), maintained by [Main author](https://github.com/usernamemainauthor).
+See `contributing.md` for ways to get started.
 
-Editor preferences are available in the [editor config](https://reponame/blob/master/.editorconfig) for easy use in common text editors. Read more and download plugins at <https://editorconfig.org/>.
+Please adhere to this project's `code of conduct`.
 
-## Creators
+  
+## Feedback
 
-**Creator 1**
+If you have any feedback, please reach out to us at ayushtamra@gmail.com
 
-- <https://github.com/usernamecreator1>
+  
+## 🚀 About Me
+I'm a full stack developer...
 
-## Thanks
+  
+## License
 
-Some Text
+[MIT](https://choosealicense.com/licenses/mit/)
 
-## Copyright and license
-
-Code and documentation copyright 2011-2018 the authors. Code released under the [MIT License](https://reponame/blob/master/LICENSE).
-
-Enjoy :metal:
+  
