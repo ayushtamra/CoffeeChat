@@ -1,7 +1,7 @@
+<p align="center">
+<img src="images/Coffee.svg" width=200 height=300>
+</p>
 
-<img align="center" src="images/Coffee.svg" width=200 height=300>
-
-    
 # Coffee Chat
 
 A brief description of what this project does and who it's for
